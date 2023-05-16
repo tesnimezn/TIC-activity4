@@ -1,0 +1,120 @@
+body {
+    background-color: #A7767C;
+    background-attachment: fixed;
+    
+}
+
+#box1 {
+    border : 6px solid;
+    border-style:solid;
+    border-color: #E6B5B8;
+    width: 220px;
+    height: 145px; 
+    font-size : 16px;
+    font-family: "Poppins";
+    background : #FAE5E2;
+    border-radius : 15px;
+    margin-bottom : 15px;
+    margin-left: 15px;
+    padding: 25px;
+    display: inline-block;
+
+
+}
+
+h2{
+   font-size: 50px;
+   text-align: center;
+   color: #48404D ;
+   font-family: "Poppins";
+   text-decoration: #48404D underline;
+
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: #48404D ;
+    font-family: "Poppins";
+    text-decoration:#48404D underline;
+}
+
+#box2{
+
+    background-color: #FAE5E2;
+    border: 5px;
+    border-style: hidden;
+    border-radius : 15px;
+    padding: 35px;
+    text-align: center;
+    margin-bottom : 20px;
+
+}
+
+#box3{
+
+    background-color: #FAE5E2;
+    border: 5px;
+    border-style: hidden;
+    border-radius : 15px;
+    padding: 35px;
+    text-align: center;
+    margin-bottom : 20px;
+}
+
+#box4{
+
+    background-color: #FAE5E2;
+    border: 5px;
+    border-style: hidden;
+    border-radius : 15px;
+    padding: 35px;
+    text-align: center;
+    margin-bottom : 20px;
+}
+
+#box5{
+
+    background-color: #FAE5E2;
+    border: 5px;
+    border-style: hidden;
+    border-radius : 15px;
+    padding: 35px;
+    text-align: center;
+    margin-bottom : 20px;
+}
+
+#box6{
+
+    background-color: #FAE5E2;
+    border: 5px;
+    border-style: hidden;
+    border-radius : 15px;
+    padding: 35px;
+    text-align: center;
+    margin-bottom : 20px;
+}
+
+h3{
+    font-size: 40px;
+    text-align: left;
+    color: #E6B5B8 ;
+    font-family: "Poppins";
+    text-decoration: #E6B5B8 underline; 
+}
+
+p{
+    font-size: 25px;
+    text-align: left;
+    color: black ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Poppins";
+}
+img{
+    position: relative;
+    width: 1070px;
+    height: 550px;
+    border: solid;
+    border-width: 1,5px;
+    animation-duration: 5s;
+}
